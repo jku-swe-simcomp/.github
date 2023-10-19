@@ -8,3 +8,6 @@ This repository contains project-management related documents and general system
 
 ## [Simcomp-Services](https://github.com/jku-swe-simcomp/simcomp-services)
 This repository contains all services of the system.
+
+## [Local-Deploy](https://github.com/jku-swe-simcomp/local-deploy)
+A docker-compose configuration for the whole system.
