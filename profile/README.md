@@ -1,12 +1,10 @@
-## Hi there 👋
+# Simcomp 
+This organization contains repositories for a project concerned with the composition of simulations of the [Ned 2 Niryo Roboter Arm](https://niryo.com/products-cobots/robot-ned-2/).
 
-<!--
+# Repository Overview
 
-**Here are some ideas to get you started:**
+## [Project-Management](https://github.com/jku-swe-simcomp/project-management)
+This repository contains project-management related documents and general system documentation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## [Simcomp-Services](https://github.com/jku-swe-simcomp/simcomp-services)
+This repository contains all services of the system.
