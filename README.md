@@ -6,5 +6,5 @@ This organization contains repositories for a project concerned with the composi
 ## [Project-Management](https://github.com/jku-swe-simcomp/project-management)
 This repository contains project-management related documents and general system documentation.
 
-## [Simcomp-Services](https://github.com/jku-swe-simcomp/.github/edit/main/simcomp-services)
+## [Simcomp-Services](https://github.com/jku-swe-simcomp/simcomp-services)
 This repository contains all services of the system.
